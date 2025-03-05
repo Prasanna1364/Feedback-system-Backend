@@ -1,0 +1,9 @@
+spring.application.name=admin_service
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.url=mysql://root:FbUECqzbggUTuMSxjiXvyyCuPAPQlsaU@autorack.proxy.rlwy.net:17636/railway
+
+spring.datasource.username=root
+spring.datasource.password=FbUECqzbggUTuMSxjiXvyyCuPAPQlsaU
+
+spring.jpa.hibernate.ddl-auto=update
+server.port=2002
